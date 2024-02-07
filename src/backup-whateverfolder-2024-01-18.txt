@@ -1,0 +1,11 @@
+.
+├── App.scss
+├── App.tsx
+├── Utils.ts
+├── backup-whateverfolder-2024-01-18.txt
+├── index.scss
+├── index.tsx
+├── stores
+└── views
+
+3 directories, 6 files
